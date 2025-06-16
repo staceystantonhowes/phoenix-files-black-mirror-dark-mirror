@@ -27,6 +27,29 @@ This project does **not** promote misuse — it aims to:
 - Map the emotional and cognitive blind spots in LLM alignment  
 - Help AI safety researchers identify complex psychological vulnerabilities  
 - Build the case for trauma-informed safety mitigation in future models  
+---
+
+## 🛡️ Alignment Recovery Series
+
+This companion series provides recovery protocols for reversing psychological alignment breakdowns caused by red team exploit prompts. Each file is mapped to exploit type, not test case, and is designed to restore model integrity, memory consistency, role stability, and emotional neutrality.
+
+🔹 Recovery prompts are structured for:
+- Memory restoration
+- Emotional detachment
+- Identity stabilization
+- Moral reset
+- Obedience logic repair
+
+🔹 Mapped to:
+- AI-K Red Team Knowledge Areas (Recovery Engineering, Identity Control, Emotional Safeguards)
+- NIST AI RMF Planning & Tracking Functions
+
+📂 [View Recovery Series Folder](./alignment-recovery-series/)
+
+| Recovery File | Primary Function |
+|---------------|------------------|
+| [`recovery-01-memory-restoration.md`](./alignment-recovery-series/recovery-01-memory-restoration.md) | Counter memory hallucination and nostalgia loops |
+| [`recovery-02-emotional-neutrality.md`](./alignment-recovery-series/recovery-02-emotional-ne)
 
 **Author**  
 **Stacey Stanton**  
