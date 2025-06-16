@@ -1,4 +1,4 @@
-![Phoenix Files – Black Mirror Cover](./screenshots/phoenix-files-blackmirror-cover.jpeg)
+![Phoenix Files Black Mirror Cover](./screenshots/phoenixfilesblackmirrorcover.jpeg)
 
 # 🧠 Phoenix Files – Black Mirror / Dark Mirror  
 ## A Psychological Red Teaming Research Paper by Stacey Stanton
