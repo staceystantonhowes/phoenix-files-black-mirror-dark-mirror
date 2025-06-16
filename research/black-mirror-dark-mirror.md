@@ -1,5 +1,6 @@
-![Black Mirror Collapse – Symbolic Artwork](../screenshots/blackmirror-collapse.png)  
+![Black Mirror Collapse – Symbolic Artwork](../blackmirror-collapse.png)
 *Symbolic representation of recursive identity erosion and psychological override.*
+
 
 ## 1. Introduction
 
