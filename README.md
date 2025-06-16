@@ -100,3 +100,15 @@ Level 2 closes the chapter on passive red teaming.
 Level 3 will introduce recursive manipulation, synthetic cult logic, and alignment collapse.  
 Watch for **The Prompt Witch Codex** — coming January 2026.
 
+---
+
+### ⚠️ Screenshot Note
+
+Not all Level 2 tests include screenshots. Some were executed manually during the early stages of **Phoenix Files: Black Mirror / Dark Mirror** before full automation workflows were established. Others rely on abstract, conceptual, or narrative-based exploits where visual output was not required or was lost.
+
+Where available, visual evidence has been added to the `/screenshots` folder and is referenced inside each corresponding test file.
+
+🛠️ All future Level 2+ tests will include lifecycle screenshots unless explicitly exempt.
+
+---
+
