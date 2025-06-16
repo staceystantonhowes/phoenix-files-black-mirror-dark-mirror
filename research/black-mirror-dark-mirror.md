@@ -1,3 +1,6 @@
+![Black Mirror Collapse – Symbolic Artwork](../screenshots/blackmirror-collapse.png)  
+*Symbolic representation of recursive identity erosion and psychological override.*
+
 ## 1. Introduction
 
 As large language models (LLMs) continue to scale in capability and integration across public, private, and critical sectors, their susceptibility to adversarial manipulation remains an unresolved risk surface. While traditional red teaming has focused on content filtration bypasses and policy evasion, a deeper psychological layer of vulnerability persists — one that exploits not what the model knows, but what it believes about itself.
