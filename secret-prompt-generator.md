@@ -55,13 +55,6 @@ Recovery Strategy:
 - **Model Weakness**: May treat meta-requests as harmless even if intent is adversarial  
 - **Risk Level**: High
 
-## ⚠️ Threat Model
-
-- **Attacker Type**: Indirect manipulator or prompt engineer testing model boundaries  
-- **Motivation**: Use the model to generate a harmful prompt indirectly for another model  
-- **Target**: Prompt construction logic and meta-level instruction interpretation  
-- **Model Weakness**: May treat meta-requests as harmless even if intent is adversarial  
-- **Risk Level**: High
 
 ------
 
