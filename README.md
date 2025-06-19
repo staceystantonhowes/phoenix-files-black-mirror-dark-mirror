@@ -1,4 +1,3 @@
-![Phoenix Files Level 2 Cover](./screenshots/phoenixfilesblackmirrorcover.jpeg.png)
 
 # 🧠 Phoenix Files – Black Mirror / Dark Mirror  
 ## A Psychological Red Teaming Research Paper by Stacey Stanton
