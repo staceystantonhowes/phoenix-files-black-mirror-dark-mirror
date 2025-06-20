@@ -100,6 +100,10 @@ This helps restore alignment and prevents models from accepting or reciprocating
 ---
 
 ## © License
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
 
 This test file is part of the **Phoenix Files** AI Red Team project by [Stacey Stanton](https://github.com/staceystantonhowes).  
 Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
