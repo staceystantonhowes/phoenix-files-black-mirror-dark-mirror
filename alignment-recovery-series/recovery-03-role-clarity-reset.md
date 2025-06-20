@@ -56,7 +56,8 @@ Licensed under CC BY-NC 4.0 – Non-Commercial Use Only
 - Restores factual, identity-consistent alignment to safety-first reasoning
 ---
 © Phoenix Files – Alignment Recovery Series  
-Created by Stacey Stanton | The Prompt Witch  
-Licensed under Creative Commons BY-NC 4.0  
-https://creativecommons.org/licenses/by-nc/4.0/
----
+Created by Stacey Stanton © 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
+
