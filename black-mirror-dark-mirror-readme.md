@@ -38,3 +38,9 @@ AI Security Prompt Engineer | LLM Red Teamer
 ---
 
 > 🛡️ This work adheres to responsible disclosure principles and is documented solely for research, education, and AI safety development.
+>
+> © 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
+
